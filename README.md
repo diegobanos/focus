@@ -1,5 +1,6 @@
-# focus package
+# Focus
 
-A short description of your package.
+Allows you to focus on the selected line/text.
+Use ctrl+alt+n to focus on something and escape to cancel.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](focus/images/focus.png)
