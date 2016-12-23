@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Focus",
+        "command": "focus:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Focus",
+          "submenu": [
+            {
+              "label": "On",
+              "command": "focus:toggle"
+            },
+            {
+              "label": "Off",
+              "command": "focus.destroy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

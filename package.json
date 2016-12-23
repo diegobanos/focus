@@ -1,0 +1,18 @@
+{
+  "name": "focus",
+  "main": "./lib/focus",
+  "version": "0.0.0",
+  "description": "Allows to focus on the selected line or paragraph, avoiding distractions",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "focus:toggle"
+  },
+  "repository": "https://github.com/atom/focus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
