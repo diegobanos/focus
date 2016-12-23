@@ -1,5 +1,10 @@
-# focus package
+# Focus
 
-A short description of your package.
+Disclosure: This package was created for learning purposes. After finishing it I found a package that does much more than this one. Check it out in: https://github.com/davidleghorn/atom-focus-mode
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+# Usage
+
+Allows you to focus on the selected line/text.
+Use ctrl+alt+n to focus on something and escape to cancel.
+
+![A screenshot of your package](https://raw.githubusercontent.com/diegobanos/focus/master/images/focus.png)
