@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "focus:toggle"
   },
-  "repository": "https://github.com/atom/focus",
+  "repository": "https://github.com/diegobanos/focus",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
