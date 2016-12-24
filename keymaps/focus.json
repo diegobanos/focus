@@ -1,8 +1,4 @@
 {
-  "atom-text-editor": {
-    "escape": "focus:destroy"
-  },
-
   ".platform-darwin atom-text-editor": {
     "cmd-alt-n": "focus:toggle"
   },

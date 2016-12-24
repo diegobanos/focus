@@ -15,12 +15,8 @@
           "label": "Focus",
           "submenu": [
             {
-              "label": "On",
+              "label": "Toggle",
               "command": "focus:toggle"
-            },
-            {
-              "label": "Off",
-              "command": "focus.destroy"
             }
           ]
         }

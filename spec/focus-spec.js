@@ -18,8 +18,4 @@ describe('Focus', () => {
   describe('when the focus:toggle event is triggered', () => {
 
   });
-
-  describe('when the focus:destroy event is triggered', () => {
-
-  });
 });
