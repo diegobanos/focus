@@ -1,6 +1,13 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-n": "focus:toggle",
+  "atom-text-editor": {
     "escape": "focus:destroy"
+  },
+
+  ".platform-darwin atom-text-editor": {
+    "cmd-alt-n": "focus:toggle"
+  },
+
+  ".platform-win32 atom-text-editor, .platform-linux atom-text-editor": {
+    "ctrl-alt-n": "focus:toggle"
   }
 }

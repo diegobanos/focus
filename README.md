@@ -5,6 +5,7 @@ Disclosure: This package was created for learning purposes. After finishing it I
 # Usage
 
 Allows you to focus on the selected line/text.
-Use ctrl+alt+n to focus on something and escape to cancel.
+
+Use `ctrl+alt+n` on windows/linux or `cmd+alt+n` on mac to toggle the focus.
 
 ![A screenshot of your package](https://raw.githubusercontent.com/diegobanos/focus/master/images/focus.png)
